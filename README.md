@@ -1,5 +1,3 @@
-![Chart total couses by department](https://github.com/Equ4lity/DADS5001_Plotly/assets/158488937/940b591d-3a72-4e0e-be4d-c7acb939c309)# DADS5001 Data Analytics and Data Science Tools and Programming
-
 Homework 5001 Plotly
 
 
